@@ -1,3 +1,9 @@
+This is a food ordering platform built using servlets.
+You would need to add MySQL Connector in the lib folder and add servlet.api from Apache Tomcat in Libararies using Configure Build Path
+
+
+
+
 Create a database using MySQL Command Client
 
 CREATE DATABASE FoodDB;
